@@ -1,0 +1,61 @@
+---User overview---
+                        Total users:6
+                        Total tasks:2
+
+                        admin:
+                        Total number of tasks assigned to user: 2
+                        Percentage of total number of tasks assigned to user: 100.0%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        ---User overview---
+                        Total users:6
+                        Total tasks:3
+
+                        pabalelo:
+                        Total number of tasks assigned to user: 1
+                        Percentage of total number of tasks assigned to user: 33.33333333333333%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        ---User overview---
+                        Total users:6
+                        Total tasks:5
+
+                        moeketsi:
+                        Total number of tasks assigned to user: 2
+                        Percentage of total number of tasks assigned to user: 40.0%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        ---User overview---
+                        Total users:6
+                        Total tasks:7
+
+                        tshiamo:
+                        Total number of tasks assigned to user: 2
+                        Percentage of total number of tasks assigned to user: 28.57142857142857%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        ---User overview---
+                        Total users:6
+                        Total tasks:8
+
+                        azania:
+                        Total number of tasks assigned to user: 1
+                        Percentage of total number of tasks assigned to user: 12.5%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        ---User overview---
+                        Total users:6
+                        Total tasks:8
+
+                        reitumetsi:
+                        Total number of tasks assigned to user: 0
+                        Percentage of total number of tasks assigned to user: 0.0%
+                        Percentage of completed tasks assigned to user: 0.0
+                        Percentage of incomplete tasks assigned to user: 100.0
+                        Percentage of tasks incomplete and overdue by user: 0.0
+                        
